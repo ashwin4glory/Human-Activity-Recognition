@@ -27,8 +27,7 @@ Finally, We've got frequency domain signals from some of the available signals b
 
 These are the signals that we got so far.
 
-tBodyAcc-XYZ
-
+tBodyAcc-XYZ \n
 tGravityAcc-XYZ
 tBodyAccJerk-XYZ
 tBodyGyro-XYZ
